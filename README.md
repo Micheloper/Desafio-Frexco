@@ -12,18 +12,18 @@
 
 # Usando a App:
 
-# Clone este repositório
+### Clone este repositório
 
 $ git clone https://github.com/N-S-LEHCIM/Desafio-Frexco.git
 
-# Acesse a pasta do projeto no seu terminal/cmd
+### Acesse a pasta do projeto no seu terminal/cmd
 
 $ cd Desafio-Frexco
 
-# Instale as dependências
+### Instale as dependências
 
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+### Execute a aplicação em modo de desenvolvimento
 
 $ npm run dev
