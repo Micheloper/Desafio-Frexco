@@ -1,6 +1,6 @@
 # Desafio-Frexco
 
-> Desafio Front End de um e-commerce de hortifruti fictício para a Frexco utilizando la ([API da fruityvice](https://www.fruityvice.com/doc/)). O projeto trata-se de um e-commerce de hortifruti, o qual é possível ver as informações nutricionais das frutas e escolher quais você adicionar no carrinho.
+> Desafio Front End de um e-commerce de hortifruti fictício para a Frexco utilizando la API da fruityvice (https://www.fruityvice.com/doc/). O projeto trata-se de um e-commerce de hortifruti, o qual é possível ver as informações nutricionais das frutas e escolher quais você adicionar no carrinho.
 
 ---
 
