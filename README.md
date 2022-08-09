@@ -8,3 +8,4 @@
 
 1. React
 2. JavaScript
+3. Vite
