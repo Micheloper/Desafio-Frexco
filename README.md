@@ -9,3 +9,21 @@
 1. React
 2. JavaScript
 3. Vite
+
+# Usando a App:
+
+# Clone este repositório
+
+$ git clone https://github.com/N-S-LEHCIM/Desafio-Frexco.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+
+$ cd Desafio-Frexco
+
+# Instale as dependências
+
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+
+$ npm run dev
