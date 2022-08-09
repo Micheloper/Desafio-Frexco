@@ -1,0 +1,30 @@
+@-webkit-keyframes svg-text-anim {
+  40% {
+    stroke-dashoffset: 0;
+    fill: transparent;
+  }
+  60% {
+    stroke-dashoffset: 0;
+    fill: #0f0f0f;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill: #0f0f0f;
+  }
+}
+
+@keyframes svg-text-anim {
+  40% {
+    stroke-dashoffset: 0;
+    fill: transparent;
+  }
+  60% {
+    stroke-dashoffset: 0;
+    fill: #0f0f0f;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill: #0f0f0f;
+  }
+}
+ 
